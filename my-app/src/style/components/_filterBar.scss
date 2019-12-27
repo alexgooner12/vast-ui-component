@@ -1,0 +1,14 @@
+.filter-bar__input {
+    width: calc(100% - 10px);
+    padding: 10px 0;
+    border-radius: 5px;
+    border: 1px solid $gray;
+}
+
+.filter-bar__input:focus-within {
+    padding-left: 10px;
+}
+
+.filter-bar__input:not(:focus){
+    padding-left: 10px;
+}

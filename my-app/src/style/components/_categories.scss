@@ -1,0 +1,18 @@
+.navigation__list {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    justify-content: space-around;
+}
+
+.navigation__link {
+    border-bottom: 4px solid $dark-white;
+    padding-bottom: 12px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+.navigation__link--active {
+    border-bottom: 4px solid $orange;
+}
