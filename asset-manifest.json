@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vast-ui-component/static/css/main.432e6f4e.chunk.css",
-    "main.js": "/vast-ui-component/static/js/main.37e54558.chunk.js",
-    "main.js.map": "/vast-ui-component/static/js/main.37e54558.chunk.js.map",
+    "main.js": "/vast-ui-component/static/js/main.b1e72dd3.chunk.js",
+    "main.js.map": "/vast-ui-component/static/js/main.b1e72dd3.chunk.js.map",
     "runtime-main.js": "/vast-ui-component/static/js/runtime-main.13f1b660.js",
     "runtime-main.js.map": "/vast-ui-component/static/js/runtime-main.13f1b660.js.map",
     "static/css/2.2c0ec7c8.chunk.css": "/vast-ui-component/static/css/2.2c0ec7c8.chunk.css",
     "static/js/2.4d84ac0d.chunk.js": "/vast-ui-component/static/js/2.4d84ac0d.chunk.js",
     "static/js/2.4d84ac0d.chunk.js.map": "/vast-ui-component/static/js/2.4d84ac0d.chunk.js.map",
     "index.html": "/vast-ui-component/index.html",
-    "precache-manifest.eb77afa0133afa0fbab2bd3fd2c41896.js": "/vast-ui-component/precache-manifest.eb77afa0133afa0fbab2bd3fd2c41896.js",
+    "precache-manifest.b5b73a306bbadbccbb336e9983d5ad26.js": "/vast-ui-component/precache-manifest.b5b73a306bbadbccbb336e9983d5ad26.js",
     "service-worker.js": "/vast-ui-component/service-worker.js",
     "static/css/2.2c0ec7c8.chunk.css.map": "/vast-ui-component/static/css/2.2c0ec7c8.chunk.css.map",
     "static/css/main.432e6f4e.chunk.css.map": "/vast-ui-component/static/css/main.432e6f4e.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.2c0ec7c8.chunk.css",
     "static/js/2.4d84ac0d.chunk.js",
     "static/css/main.432e6f4e.chunk.css",
-    "static/js/main.37e54558.chunk.js"
+    "static/js/main.b1e72dd3.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vast-ui-component/precache-manifest.eb77afa0133afa0fbab2bd3fd2c41896.js"
+  "/vast-ui-component/precache-manifest.b5b73a306bbadbccbb336e9983d5ad26.js"
 );
 
 self.addEventListener('message', (event) => {
