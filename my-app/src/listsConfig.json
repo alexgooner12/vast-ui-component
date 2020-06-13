@@ -1,0 +1,22 @@
+{
+    "forksRepList": {
+        "filteringCriterium": {
+            "fork": true
+        }
+    },
+    "privateRepList": {
+        "filteringCriterium": {
+            "private": true
+        }
+    },
+    "sourcesRepList": {
+        "filteringCriterium": {
+            "fork": false
+        }
+    },
+    "publicRepList": {
+        "filteringCriterium": {
+            "private": false
+        }
+    }
+}
