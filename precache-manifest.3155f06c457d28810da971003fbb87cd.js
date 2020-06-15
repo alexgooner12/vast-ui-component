@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b7299f547e200f89b8c3286eec3a6a0",
+    "revision": "860cebe1aa68c04727862219e8324264",
     "url": "/vast-ui-component/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vast-ui-component/static/css/2.2c0ec7c8.chunk.css"
   },
   {
-    "revision": "2a24e6b661a481768088",
+    "revision": "ac8d80aeac3e05cade5c",
     "url": "/vast-ui-component/static/css/main.432e6f4e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vast-ui-component/static/js/2.4d84ac0d.chunk.js.LICENSE"
   },
   {
-    "revision": "2a24e6b661a481768088",
-    "url": "/vast-ui-component/static/js/main.37e54558.chunk.js"
+    "revision": "ac8d80aeac3e05cade5c",
+    "url": "/vast-ui-component/static/js/main.b0aadf2d.chunk.js"
   },
   {
     "revision": "b1e3be7ad825b9a3d1a9",
