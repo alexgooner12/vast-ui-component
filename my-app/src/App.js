@@ -42,7 +42,7 @@ class App extends React.Component {
 
 	render () {
 		return (
-			<Router>
+			<Router basename="/vast-ui-component">
 				<div className={!this.state.isFetching ? 'App' : null}>
 					{ this.state.isFetching ? <Loader />
 					: <Switch>
